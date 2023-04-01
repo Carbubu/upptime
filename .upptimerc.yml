@@ -10,7 +10,7 @@ sites:
     maxResponseTime: 3000
   - name: "API - Base d'adresse nationale"
     url: https://api-adresse.data.gouv.fr/search/?q=8+bd+du+port
-    method: POST
+    method: GET
     maxReponseTime: 3000
   - name: "Statut"
     url: https://statut.carbubu.fr/
