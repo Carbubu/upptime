@@ -3,13 +3,19 @@ owner: carbubu # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: PlanetHoster
+    url: https://www.planethoster.com/fr
   - name: Carbubu
     url: https://carbubu.fr
     maxResponseTime: 3000
+  - name: "API - Base d'adresse nationale"
+    url: https://api-adresse.data.gouv.fr/search/?q=8+bd+du+port
+    method: POST
+    maxReponseTime: 3000
+  - name: "Statut"
+    url: https://statut.carbubu.fr/
+    maxReponseTime: 3000
+    
     
 assignees: # Users to assign downtime issues (optional)
   - EpikCloudFR
