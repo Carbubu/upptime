@@ -12,9 +12,6 @@ sites:
     url: https://api-adresse.data.gouv.fr/search/?q=8+bd+du+port
     method: GET
     maxReponseTime: 3000
-  - name: "Statut"
-    url: https://statut.carbubu.fr/
-    maxReponseTime: 3000
     
     
 assignees: # Users to assign downtime issues (optional)
