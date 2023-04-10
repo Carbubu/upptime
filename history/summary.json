@@ -22,7 +22,7 @@
     "url": "https://carbubu.fr",
     "icon": "https://icons.duckduckgo.com/ip3/carbubu.fr.ico",
     "slug": "carbubu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 2142,
     "timeMonth": 2113,
     "timeYear": 2113,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-10": 0
+    }
   },
   {
     "name": "API - Base d'adresse nationale",
