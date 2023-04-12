@@ -22,19 +22,19 @@
     "url": "https://carbubu.fr",
     "icon": "https://icons.duckduckgo.com/ip3/carbubu.fr.ico",
     "slug": "carbubu",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2863,
-    "timeDay": 6288,
-    "timeWeek": 3657,
-    "timeMonth": 2863,
-    "timeYear": 2863,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 2858,
+    "timeDay": 5583,
+    "timeWeek": 3583,
+    "timeMonth": 2858,
+    "timeYear": 2858,
     "dailyMinutesDown": {
-      "2023-04-12": 0
+      "2023-04-12": 14
     }
   },
   {
