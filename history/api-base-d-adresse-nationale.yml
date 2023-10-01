@@ -1,7 +1,7 @@
 url: https://api-adresse.data.gouv.fr/search/?q=8+bd+du+port
 status: up
 code: 200
-responseTime: 478
-lastUpdated: 2023-09-30T23:14:33.353Z
+responseTime: 574
+lastUpdated: 2023-10-01T23:15:19.131Z
 startTime: 2023-04-01T19:46:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
