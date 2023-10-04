@@ -1,7 +1,7 @@
 url: https://carbubu.fr
-status: up
+status: degraded
 code: 200
-responseTime: 1689
-lastUpdated: 2023-10-04T10:33:18.950Z
+responseTime: 3068
+lastUpdated: 2023-10-04T11:10:28.263Z
 startTime: 2023-04-01T19:15:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
