@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1328,
-    "timeDay": 410,
-    "timeWeek": 564,
-    "timeMonth": 587,
-    "timeYear": 1113,
+    "time": 1327,
+    "timeDay": 560,
+    "timeWeek": 584,
+    "timeMonth": 594,
+    "timeYear": 1111,
     "dailyMinutesDown": {
       "2023-12-15": 28
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.85%",
-    "time": 2497,
-    "timeDay": 787,
-    "timeWeek": 2013,
-    "timeMonth": 1774,
-    "timeYear": 2451,
+    "time": 2494,
+    "timeDay": 701,
+    "timeWeek": 1985,
+    "timeMonth": 1775,
+    "timeYear": 2449,
     "dailyMinutesDown": {
       "2024-08-16": 18,
       "2024-08-10": 127,
@@ -68,17 +68,16 @@
     "slug": "api-base-d-adresse-nationale",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 528,
-    "timeDay": 479,
-    "timeWeek": 472,
-    "timeMonth": 516,
+    "timeDay": 485,
+    "timeWeek": 482,
+    "timeMonth": 517,
     "timeYear": 516,
     "dailyMinutesDown": {
-      "2024-08-29": 6,
       "2023-10-05": 89
     }
   }
