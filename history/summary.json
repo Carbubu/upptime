@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.planethoster.com.ico",
     "slug": "planet-hoster",
     "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "96.77%",
+    "uptime": "99.50%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
-    "time": 1326,
-    "timeDay": 474,
-    "timeWeek": 533,
-    "timeMonth": 596,
-    "timeYear": 1095,
+    "time": 1327,
+    "timeDay": 621,
+    "timeWeek": 540,
+    "timeMonth": 602,
+    "timeYear": 1094,
     "dailyMinutesDown": {
       "2024-09-04": 47,
       "2023-12-15": 28
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.85%",
-    "time": 2471,
-    "timeDay": 540,
-    "timeWeek": 807,
-    "timeMonth": 1510,
-    "timeYear": 2433,
+    "time": 2469,
+    "timeDay": 790,
+    "timeWeek": 818,
+    "timeMonth": 1484,
+    "timeYear": 2423,
     "dailyMinutesDown": {
       "2024-08-16": 18,
       "2024-08-10": 127,
@@ -57,8 +57,7 @@
       "2023-10-04": 16,
       "2023-10-02": 19,
       "2023-09-30": 17,
-      "2023-09-27": 17,
-      "2023-09-07": 16
+      "2023-09-27": 17
     }
   },
   {
@@ -73,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 529,
-    "timeDay": 778,
-    "timeWeek": 525,
-    "timeMonth": 538,
+    "timeDay": 470,
+    "timeWeek": 528,
+    "timeMonth": 531,
     "timeYear": 516,
     "dailyMinutesDown": {
       "2023-10-05": 89
