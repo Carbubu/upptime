@@ -4,9 +4,9 @@
     "url": "https://www.planethoster.com/fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.planethoster.com.ico",
     "slug": "planet-hoster",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.32%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "99.94%",
@@ -16,6 +16,7 @@
     "timeMonth": 2112,
     "timeYear": 1166,
     "dailyMinutesDown": {
+      "2024-10-02": 0,
       "2024-09-26": 68,
       "2024-09-25": 1,
       "2024-09-24": 19,
@@ -41,7 +42,7 @@
     "timeDay": 778,
     "timeWeek": 736,
     "timeMonth": 867,
-    "timeYear": 2175,
+    "timeYear": 2151,
     "dailyMinutesDown": {
       "2024-08-16": 18,
       "2024-08-10": 127,
