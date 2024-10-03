@@ -6,17 +6,16 @@
     "slug": "planet-hoster",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.29%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.31%",
     "uptimeYear": "99.94%",
-    "time": 1382,
-    "timeDay": 950,
-    "timeWeek": 694,
-    "timeMonth": 2075,
-    "timeYear": 1166,
+    "time": 1381,
+    "timeDay": 908,
+    "timeWeek": 687,
+    "timeMonth": 2070,
+    "timeYear": 1164,
     "dailyMinutesDown": {
-      "2024-10-02": 5,
       "2024-09-26": 68,
       "2024-09-25": 1,
       "2024-09-24": 19,
@@ -38,11 +37,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 2363,
-    "timeDay": 778,
-    "timeWeek": 736,
-    "timeMonth": 867,
-    "timeYear": 2151,
+    "time": 2361,
+    "timeDay": 773,
+    "timeWeek": 738,
+    "timeMonth": 857,
+    "timeYear": 2149,
     "dailyMinutesDown": {
       "2024-08-16": 18,
       "2024-08-10": 127,
@@ -60,8 +59,7 @@
       "2023-10-10": 81,
       "2023-10-09": 16,
       "2023-10-08": 41,
-      "2023-10-05": 65,
-      "2023-10-04": 16
+      "2023-10-05": 65
     }
   },
   {
@@ -76,10 +74,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 529,
-    "timeDay": 1209,
-    "timeWeek": 596,
-    "timeMonth": 589,
-    "timeYear": 520,
+    "timeDay": 435,
+    "timeWeek": 595,
+    "timeMonth": 584,
+    "timeYear": 521,
     "dailyMinutesDown": {
       "2023-10-05": 89
     }
