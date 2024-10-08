@@ -10,11 +10,11 @@
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.93%",
-    "time": 1414,
-    "timeDay": 487,
-    "timeWeek": 1749,
-    "timeMonth": 2010,
-    "timeYear": 1183,
+    "time": 1415,
+    "timeDay": 911,
+    "timeWeek": 1772,
+    "timeMonth": 2032,
+    "timeYear": 1182,
     "dailyMinutesDown": {
       "2024-10-05": 16,
       "2024-10-03": 24,
@@ -34,16 +34,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/carbubu.fr.ico",
     "slug": "carbubu",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 2353,
-    "timeDay": 674,
-    "timeWeek": 735,
-    "timeMonth": 873,
-    "timeYear": 1978,
+    "time": 2348,
+    "timeDay": 1171,
+    "timeWeek": 801,
+    "timeMonth": 882,
+    "timeYear": 1960,
     "dailyMinutesDown": {
       "2024-08-16": 18,
       "2024-08-10": 127,
@@ -58,8 +58,7 @@
       "2023-11-04": 16,
       "2023-10-24": 19,
       "2023-10-23": 18,
-      "2023-10-10": 81,
-      "2023-10-09": 16
+      "2023-10-10": 81
     }
   },
   {
@@ -74,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 528,
-    "timeDay": 322,
-    "timeWeek": 566,
-    "timeMonth": 574,
+    "timeDay": 621,
+    "timeWeek": 584,
+    "timeMonth": 565,
     "timeYear": 520,
     "dailyMinutesDown": {}
   }
