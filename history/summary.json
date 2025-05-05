@@ -8,15 +8,15 @@
     "uptime": "96.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "29.19%",
-    "uptimeYear": "94.02%",
+    "uptimeMonth": "29.08%",
+    "uptimeYear": "94.01%",
     "time": 881,
     "timeDay": 86,
     "timeWeek": 112,
     "timeMonth": 192,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2025-05-05": 831,
+      "2025-05-05": 878,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
@@ -89,11 +89,11 @@
     "url": "https://api-adresse.data.gouv.fr/search/?q=8+bd+du+port",
     "icon": "https://icons.duckduckgo.com/ip3/api-adresse.data.gouv.fr.ico",
     "slug": "api-base-d-adresse-nationale",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 532,
     "timeDay": 585,
@@ -101,7 +101,7 @@
     "timeMonth": 757,
     "timeYear": 543,
     "dailyMinutesDown": {
-      "2025-05-05": 8
+      "2025-05-05": 0
     }
   }
 ]
