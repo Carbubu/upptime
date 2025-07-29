@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.planethoster.com.ico",
     "slug": "planet-hoster",
     "status": "up",
-    "uptime": "91.65%",
-    "uptimeDay": "97.91%",
+    "uptime": "91.66%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.51%",
     "uptimeMonth": "99.16%",
     "uptimeYear": "81.31%",
-    "time": 1015,
-    "timeDay": 1291,
-    "timeWeek": 1961,
-    "timeMonth": 3093,
-    "timeYear": 1105,
+    "time": 1016,
+    "timeDay": 1349,
+    "timeWeek": 1918,
+    "timeMonth": 3072,
+    "timeYear": 1107,
     "dailyMinutesDown": {
       "2025-07-27": 30,
       "2025-07-26": 30,
@@ -121,10 +121,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.87%",
-    "time": 1077,
-    "timeDay": 757,
-    "timeWeek": 1289,
+    "uptimeYear": "99.88%",
+    "time": 1074,
+    "timeDay": 762,
+    "timeWeek": 1278,
     "timeMonth": 1026,
     "timeYear": 1107,
     "dailyMinutesDown": {
@@ -147,8 +147,7 @@
       "2024-08-16": 18,
       "2024-08-10": 127,
       "2024-08-09": 3,
-      "2024-08-02": 23,
-      "2024-07-29": 113
+      "2024-08-02": 23
     }
   },
   {
@@ -163,9 +162,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 545,
-    "timeDay": 385,
-    "timeWeek": 530,
-    "timeMonth": 560,
+    "timeDay": 548,
+    "timeWeek": 541,
+    "timeMonth": 561,
     "timeYear": 553,
     "dailyMinutesDown": {}
   }
