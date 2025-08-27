@@ -161,19 +161,19 @@
     "url": "https://api-adresse.data.gouv.fr/search/?q=8+bd+du+port",
     "icon": "https://icons.duckduckgo.com/ip3/api-adresse.data.gouv.fr.ico",
     "slug": "api-base-d-adresse-nationale",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 548,
-    "timeDay": 486,
-    "timeWeek": 525,
-    "timeMonth": 565,
+    "timeDay": 469,
+    "timeWeek": 514,
+    "timeMonth": 561,
     "timeYear": 557,
     "dailyMinutesDown": {
-      "2025-08-27": 0
+      "2025-08-27": 6
     }
   }
 ]
