@@ -4,18 +4,19 @@
     "url": "https://www.planethoster.com/fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.planethoster.com.ico",
     "slug": "planet-hoster",
-    "status": "up",
-    "uptime": "92.17%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "92.18%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "81.29%",
-    "time": 1202,
-    "timeDay": 1220,
-    "timeWeek": 1529,
-    "timeMonth": 1959,
-    "timeYear": 1252,
+    "uptimeYear": "81.30%",
+    "time": 1203,
+    "timeDay": 1128,
+    "timeWeek": 1427,
+    "timeMonth": 1931,
+    "timeYear": 1255,
     "dailyMinutesDown": {
+      "2025-09-26": 0,
       "2025-09-22": 38,
       "2025-09-19": 23,
       "2025-09-04": 63,
@@ -110,8 +111,7 @@
       "2025-04-01": 19,
       "2024-10-09": 49,
       "2024-10-05": 16,
-      "2024-10-03": 24,
-      "2024-09-26": 68
+      "2024-10-03": 24
     }
   },
   {
@@ -126,10 +126,10 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.89%",
     "time": 1075,
-    "timeDay": 726,
-    "timeWeek": 926,
-    "timeMonth": 949,
-    "timeYear": 1027,
+    "timeDay": 1272,
+    "timeWeek": 936,
+    "timeMonth": 962,
+    "timeYear": 1028,
     "dailyMinutesDown": {
       "2025-09-22": 37,
       "2025-09-19": 22,
@@ -163,17 +163,15 @@
     "slug": "api-base-d-adresse-nationale",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 551,
-    "timeDay": 501,
+    "timeDay": 616,
     "timeWeek": 587,
-    "timeMonth": 571,
-    "timeYear": 559,
-    "dailyMinutesDown": {
-      "2025-09-25": 13
-    }
+    "timeMonth": 579,
+    "timeYear": 560,
+    "dailyMinutesDown": {}
   }
 ]
